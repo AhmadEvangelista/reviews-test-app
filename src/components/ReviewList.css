@@ -1,0 +1,9 @@
+.ListContainer {
+  min-width: 100%;
+  margin: 1rem;
+}
+.List {
+  border: white solid 0.1rem;
+  margin: 1rem 0;
+  padding: 1.5rem;
+}

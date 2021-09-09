@@ -1,0 +1,32 @@
+.FormContainer {
+  max-width: 100%;
+  margin: 1rem;
+}
+.Form {
+  min-width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.InputFullname {
+  max-width: 14rem;
+  margin-bottom: 1rem;
+}
+.InputEmail {
+  max-width: 14rem;
+  margin-bottom: 1rem;
+}
+.SelectRating {
+  max-width: 14.5rem;
+  min-height: 1.5rem;
+  margin-bottom: 1rem;
+}
+.SelectReview {
+  margin-bottom: 1rem;
+  resize: none;
+}
+.ButtonSubmit {
+  max-width: 13.8rem;
+  min-height: 2rem;
+  margin-left: 70%;
+}
